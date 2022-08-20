@@ -208,7 +208,22 @@ function Index4() {
                       Aliquam a augue suscipit, luctus neque purus ipsum neque
                       at dolor primis libero tempus, blandit
                     </p>
-                
+                  </div>
+                  <div className="item-icon none-bd hover-up">
+                    <span className="icon-left">
+                      <img
+                        src="/assets/imgs/page/homepage2/icon-advance.svg"
+                        alt="Agon"
+                      />
+                    </span>
+                    <h4 className="text-heading-4">
+                      Advanced analytics to grow your business
+                    </h4>
+                    <p className="text-body-excerpt color-gray-600 mt-15">
+                      Aliquam a augue suscipit, luctus neque purus ipsum neque
+                      at dolor primis libero tempus, blandit
+                    </p>
+                  </div>
                 </div>
               </div>
             </div>
@@ -326,7 +341,6 @@ function Index4() {
               </div>
             </div>
           </div>
-
           <br></br>
           <br></br>
           <br></br>
