@@ -53,7 +53,7 @@ const Sidebar = ({ openClass }) => {
                         <i className="fi-rr-angle-small-down"></i>
                       </span>
 
-                      <Link href="/page-about-1">
+                      <Link href="/how-it-works">
                         <a>Как работи</a>
                       </Link>
                       <ul
@@ -85,7 +85,7 @@ const Sidebar = ({ openClass }) => {
                       </span>
 
                       <Link href="/page-service-1">
-                        <a>Търговци</a>
+                        <a>Терминали</a>
                       </Link>
                       <ul
                         className={
@@ -100,7 +100,7 @@ const Sidebar = ({ openClass }) => {
                           </Link>
                         </li>
                         <li>
-                          <Link href="#">
+                          <Link href="/smart-pos">
                             <a>Smart POS</a>
                           </Link>
                         </li>

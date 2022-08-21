@@ -41,12 +41,12 @@ const Header = ({ handleOpen, headerStyle }) => {
                 <nav className="nav-main-menu d-none d-xl-block">
                   <ul className="main-menu">
                     <li className="">
-                      <Link href="index">
+                      <Link href="/">
                         <a className="active">Начало</a>
                       </Link>
                     </li>
                     <li className="has-children">
-                      <Link href="#">
+                      <Link href="/how-it-works">
                         <a>Как работи</a>
                       </Link>
                       <ul className="sub-menu">
@@ -58,8 +58,8 @@ const Header = ({ handleOpen, headerStyle }) => {
                       </ul>
                     </li>
                     <li className="has-children">
-                      <Link href="#">
-                        <a>Търговци</a>
+                      <Link href="/merchants">
+                        <a>Терминали</a>
                       </Link>
                       <ul className="sub-menu">
                         <li>
@@ -68,7 +68,7 @@ const Header = ({ handleOpen, headerStyle }) => {
                           </Link>
                         </li>
                         <li>
-                          <Link href="#">
+                          <Link href="/smart-pos">
                             <a>Smart POS</a>
                           </Link>
                         </li>

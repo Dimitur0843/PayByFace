@@ -129,7 +129,7 @@ function Index4() {
                         alt="Agon"
                       />
                     </div>
-                    <h4 className="text-heading-4">Търговци</h4>
+                    <h4 className="text-heading-4">Терминали</h4>
                     <p className="text-body-text color-gray-600 mt-15">
                       Модернизирайте магазина си с биометрична система за
                       продажба, спестете време за транзакции и бъдете по-лични с
