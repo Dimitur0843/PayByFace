@@ -44,30 +44,7 @@ function Index4() {
 
                   <div className="mt-60">
                     <div className="row">
-                      <div className="col-lg-3 col-sm-4 col-4">
-                        <h3 className="text-heading-2 color-white mb-15">
-                          5000+
-                        </h3>
-                        <p className="text-body-normal color-gray-300">
-                          Happy Clients
-                        </p>
-                      </div>
-                      <div className="col-lg-3 col-sm-4 col-4">
-                        <h3 className="text-heading-2 color-white mb-15">
-                          756+
-                        </h3>
-                        <p className="text-body-normal color-gray-300">
-                          Project Done
-                        </p>
-                      </div>
-                      <div className="col-lg-3 col-sm-4 col-4">
-                        <h3 className="text-heading-2 color-white mb-15">
-                          100%
-                        </h3>
-                        <p className="text-body-normal color-gray-300">
-                          Client Satisfaction
-                        </p>
-                      </div>
+                      <div className="col-lg-3 col-sm-4 col-4"></div>
                     </div>
                   </div>
                 </div>
@@ -99,7 +76,7 @@ function Index4() {
                 </h2>
                 <p className="text-heading-6 color-gray-600">
                   Ориентирана към клиента, безпроблемна и сигурна екосистема за
-                  цифрови плащания за по-безопасно, по-бързо и по-удобно
+                  цифрови плащания за по-безопасно, по-бързо и по-удобно ``
                   пазаруване.
                 </p>
               </div>
@@ -157,72 +134,18 @@ function Index4() {
                 </div>
               </div>
             </div>
-          </div>
-        </section>
-        <section className="section-box">
-          <div className="container mt-90">
-            <div className="row">
-              <div className="col-lg-6 col-sm-12 block-img-we-do">
-                <div className="inner-image">
-                  <img
-                    className="bdrd-16 img-responsive"
-                    src="assets/imgs/page/homepage2/img-2.png"
-                    alt="Agon"
-                  />
-                </div>
-              </div>
-              <div className="col-lg-6 col-sm-12 block-we-do-2">
-                <span className="tag-1 color-orange-900">
-                  What We Do, What You Get
-                </span>
-                <h3 className="text-heading-1 mt-30">
-                  The intelligent way to manage projects
-                </h3>
-                <div className="list-icons mt-50">
-                  <div className="item-icon none-bd hover-up">
-                    <span className="icon-left">
-                      <img
-                        src="/assets/imgs/page/homepage2/icon-work.svg"
-                        alt="Agon"
-                      />
-                    </span>
-                    <h4 className="text-heading-4">
-                      Work smarter with powerful features
-                    </h4>
-                    <p className="text-body-excerpt color-gray-600 mt-15">
-                      Aliquam a augue suscipit, luctus neque purus ipsum neque
-                      at dolor primis libero tempus, blandit
-                    </p>
+            <div className="section-box mt-100">
+              <div className="container">
+                <div className="row">
+                  <div className="col-lg-7">
+                    <img src="/assets/imgs/page/homepage7/girl.jpg" />
                   </div>
-                  <div className="item-icon none-bd hover-up">
-                    <span className="icon-left">
-                      <img
-                        src="/assets/imgs/page/homepage2/icon-design.svg"
-                        alt="Agon"
-                      />
-                    </span>
-                    <h4 className="text-heading-4">
-                      Designed for teams of all sorts and sizes
-                    </h4>
-                    <p className="text-body-excerpt color-gray-600 mt-15">
-                      Aliquam a augue suscipit, luctus neque purus ipsum neque
-                      at dolor primis libero tempus, blandit
-                    </p>
-                  </div>
-                  <div className="item-icon none-bd hover-up">
-                    <span className="icon-left">
-                      <img
-                        src="/assets/imgs/page/homepage2/icon-advance.svg"
-                        alt="Agon"
-                      />
-                    </span>
-                    <h4 className="text-heading-4">
-                      Advanced analytics to grow your business
-                    </h4>
-                    <p className="text-body-excerpt color-gray-600 mt-15">
-                      Aliquam a augue suscipit, luctus neque purus ipsum neque
-                      at dolor primis libero tempus, blandit
-                    </p>
+                  <div className="col-lg-5">
+                    <img
+                      src="/assets/imgs/page/homepage7/vipstore.png"
+                      width={2000}
+                      height={440}
+                    />
                   </div>
                 </div>
               </div>
@@ -268,7 +191,7 @@ function Index4() {
                       alt="Agon"
                     />
                     <div className="mt-0    ">
-                      <Link href="/page-about-1">
+                      <Link href="https://paybyface.myshopify.com/collections/all">
                         <a className="btn btn-pink icon-arrow-right-white text-heading-6">
                           Пазарувай
                         </a>
@@ -298,7 +221,7 @@ function Index4() {
                       height={400}
                     />
                     <div className="mt-0">
-                      <Link href="/page-about-1">
+                      <Link href="https://www.producthunt.com/products/paybyface?utm_source=badge-featured&utm_medium=badge#paybyface">
                         <a className="btn btn-pink icon-arrow-right-white text-heading-6">
                           Product Hunt
                         </a>
@@ -327,13 +250,13 @@ function Index4() {
                 и от утре започнете да пазарувате само с лицето си!
               </p>
               <div className="mt-60">
-                <Link href="#">
+                <Link href="https://apps.apple.com/us/app/paybyface/id1488637840">
                   <a className="mr-20">
                     <img src="/assets/imgs/page/homepage5/apple-button.svg" />
                   </a>
                 </Link>
 
-                <Link href="#">
+                <Link href="https://play.google.com/store/apps/details?id=com.paybyface.app&hl=en_US">
                   <a>
                     <img src="/assets/imgs/page/homepage5/google-play.svg" />
                   </a>
