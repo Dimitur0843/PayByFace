@@ -107,7 +107,7 @@ const Header = ({ handleOpen, headerStyle }) => {
                       </ul>
                     </li>
                     <li className="">
-                      <Link href="#">
+                      <Link href="/advertisers">
                         <a className="active">Рекламодатели</a>
                       </Link>
                     </li>

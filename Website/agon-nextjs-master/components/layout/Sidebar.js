@@ -160,7 +160,7 @@ const Sidebar = ({ openClass }) => {
                     <li className={isActive.key == 5 ? "active" : ""}>
                       <span onClick={() => handleToggle(5)} className=""></span>
 
-                      <Link href="/blog-1">
+                      <Link href="/advertisers">
                         <a>Рекламодатели</a>
                       </Link>
                     </li>
