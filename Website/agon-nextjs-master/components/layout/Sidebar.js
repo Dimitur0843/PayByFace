@@ -64,7 +64,7 @@ const Sidebar = ({ openClass }) => {
                         }
                       >
                         <li>
-                          <Link href="/page-about-1">
+                          <Link href="https://paybyface.io/locations/">
                             <a>Локации</a>
                           </Link>
                         </li>
@@ -84,7 +84,7 @@ const Sidebar = ({ openClass }) => {
                         <i className="fi-rr-angle-small-down"></i>
                       </span>
 
-                      <Link href="/page-service-1">
+                      <Link href="/merchants">
                         <a>Терминали</a>
                       </Link>
                       <ul
@@ -140,7 +140,7 @@ const Sidebar = ({ openClass }) => {
                         <i className="fi-rr-angle-small-down"></i>
                       </span>
 
-                      <Link href="/#">
+                      <Link href="/services">
                         <a>Услуги</a>
                       </Link>
                       <ul
