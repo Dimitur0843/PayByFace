@@ -18,13 +18,10 @@ function Career() {
                 <section className="section-box">
                     <div className="banner-hero banner-3">
                         <div className="container">
-                            <div className="text-center"><span className="tag-1 bg-6 color-green-900">Success Together</span>
-                                <h1 className="text-display-2 color-gray-900 mt-30">Working with us,<br className="d-lg-block d-none" />the awesome team</h1>
-                                <div className="text-body-lead-large color-gray-500 mt-40">Our focus is always on finding the best people to work with. Our bar<br className="d-lg-block d-none" />is high, but you look ready to take on the challenge.</div>
+                            <div className="text-center"><span className="tag-1 bg-6 color-green-900">Да успяваме заедно</span>
+                                <h1 className="text-display-2 color-gray-900 mt-30">Дигитална мрежа за<br className="d-lg-block d-none" />рекламиране извън дома</h1>
+                                <div className="text-body-lead-large color-gray-500 mt-40">Пленете аудиторията във вашия град с лекота!<br className="d-lg-block d-none" /></div>
                                 <div className="mt-50">
-                                    <Link href="/page-about-3"><a className="btn btn-black icon-arrow-right-white mb-15 mr-20">Join our team</a></Link>
-
-                                    <Link href="/page-faqs-1"><a className="btn btn-default icon-arrow-right color-gray-900 btn-mb mb-15">Learn more</a></Link>
                                 </div>
                             </div>
                         </div>
@@ -43,59 +40,14 @@ function Career() {
                         </div>
                     </div>
                 </div>
-                <section className="section-box">
-                    <div className="container">
-                        <div className="row">
-                            <div className="col-lg-2 col-sm-1 col-12" />
-                            <div className="col-lg-8 col-sm-10 col-12 text-center mt-100">
-                                <h2 className="text-heading-1 color-gray-900">Join a Workplace That<br className="d-lg-block d-none" />Gives You More</h2>
-                                <p className="text-body-lead-large color-gray-600 mt-20">Interactively transform magnetic growth strategies whereas prospective "outside the box" thinking.</p>
-                            </div>
-                            <div className="col-lg-2 col-sm-1 col-12" />
-                        </div>
-                    </div>
-                    <div className="container mt-70">
-                        <div className="row">
-                            <div className="col-lg-4 col-sm-12">
-                                <div className="card-grid-1 bg-5 hover-up">
-                                    <div className="grid-1-img"><img src="/assets/imgs/page/homepage1/business-strategy.svg" alt="Agon" /></div>
-                                    <h3 className="text-heading-3 mt-20">Design &amp; Vreatives</h3>
-                                    <p className="text-body-excerpt mt-20">You are always welcome to visit our little den. Professional in teir craft! All products were super amazing with strong attension to details, comps and overall vibe.</p>
-                                    <div className="mt-30">
-                                        <Link href="/page-service-1"><a className="btn btn-default btn-white icon-arrow-right">Learn more</a></Link>
-                                    </div>
-                                </div>
-                            </div>
-                            <div className="col-lg-4 col-sm-12">
-                                <div className="card-grid-1 bg-9 hover-up">
-                                    <div className="grid-1-img"><img src="/assets/imgs/page/homepage1/local.svg" alt="Agon" /></div>
-                                    <h3 className="text-heading-3 mt-20">Work and travel</h3>
-                                    <p className="text-body-excerpt mt-20">You are always welcome to visit our little den. Professional in teir craft! All products were super amazing with strong attension to details, comps and overall vibe.</p>
-                                    <div className="mt-30">
-                                        <Link href="/page-service-1"><a className="btn btn-default btn-white icon-arrow-right">Learn more</a></Link>
-                                    </div>
-                                </div>
-                            </div>
-                            <div className="col-lg-4 col-sm-12">
-                                <div className="card-grid-1 bg-2 hover-up">
-                                    <div className="grid-1-img"><img src="/assets/imgs/page/homepage1/social.svg" alt="Agon" /></div>
-                                    <h3 className="text-heading-3 mt-20">Smart salary</h3>
-                                    <p className="text-body-excerpt mt-20">You are always welcome to visit our little den. Professional in teir craft! All products were super amazing with strong attension to details, comps and overall vibe.</p>
-                                    <div className="mt-30">
-                                        <Link href="/page-service-1"><a className="btn btn-default btn-white icon-arrow-right">Learn more</a></Link>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </section>
+               
                 <section className="section-box mt-100">
                     <div className="container">
                         <div className="row">
                             <div className="col-lg-1 col-sm-1 col-12" />
                             <div className="col-lg-10 col-sm-10 col-12 text-center">
-                                <h2 className="text-heading-1 color-gray-900 mb-10">Choose the category<br className="d-lg-block d-none" />where you expert</h2>
-                                <p className="text-body-lead-large color-gray-600 mt-20">In a professional context it often happens that private or corporate<br className="d-lg-block d-none" />clients order a publication to publish news.</p>
+                                <h2 className="text-heading-1 color-gray-900 mb-10">Mестоположения на търговци,<br className="d-lg-block d-none" />от които да избирате</h2>
+                                <p className="text-body-lead-large color-gray-600 mt-20">Изберете кварталите и покажете вашата бизнес реклама на нашите сензорни екрани.<br className="d-lg-block d-none" /></p>
                             </div>
                             <div className="col-lg-1 col-sm-1 col-12" />
                         </div>
@@ -105,48 +57,40 @@ function Career() {
                             <div className="col-lg-4 col-md-12 col-sm-12">
                                 <div className="list-icons mt-40 hover-up">
                                     <div className="item-icon"><span className="icon-left"><img src="/assets/imgs/page/homepage2/icon-acquis.svg" alt="Agon" /></span>
-                                        <h4 className="text-heading-4">Graphic designer</h4>
-                                        <p className="text-body-text color-gray-600 mt-15">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit laborum — semper quis lectus nulla.</p>
+                                        <h4 className="text-heading-4">Статични и видео реклами</h4>
+                                        <p className="text-body-text color-gray-600 mt-15">Съдържанието на вашия рекламен банер ще се показва в цикъл през целия ден на нашите DOOH екрани по ваш избор.</p>
                                     </div>
                                 </div>
                             </div>
                             <div className="col-lg-4 col-md-12 col-sm-12">
                                 <div className="list-icons mt-40 hover-up">
                                     <div className="item-icon"><span className="icon-left"><img src="/assets/imgs/page/homepage2/icon-active.svg" alt="Agon" /></span>
-                                        <h4 className="text-heading-4">Web developer</h4>
-                                        <p className="text-body-text color-gray-600 mt-15">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                                        <h4 className="text-heading-4">Целеви маркетинг</h4>
+                                        <p className="text-body-text color-gray-600 mt-15">Получете максимална възвръщаемост на инвестициите от маркетинговия си бюджет с насочени реклами.</p>
                                     </div>
                                 </div>
                             </div>
                             <div className="col-lg-4 col-md-12 col-sm-12">
                                 <div className="list-icons mt-40 hover-up">
                                     <div className="item-icon"><span className="icon-left"><img src="/assets/imgs/page/homepage2/icon-retent.svg" alt="Agon" /></span>
-                                        <h4 className="text-heading-4">Data scientistn</h4>
-                                        <p className="text-body-text color-gray-600 mt-15">Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                                        <h4 className="text-heading-4">SMS съобщения</h4>
+                                        <p className="text-body-text color-gray-600 mt-15">Планирайте SMS съобщения, за да привлечете клиентите си въз основа на географско ограждане.</p>
                                     </div>
                                 </div>
                             </div>
                             <div className="col-lg-4 col-md-12 col-sm-12">
                                 <div className="list-icons mt-40 hover-up">
                                     <div className="item-icon"><span className="icon-left"><img src="/assets/imgs/page/homepage2/icon-acquis.svg" alt="Agon" /></span>
-                                        <h4 className="text-heading-4">Technical Support</h4>
-                                        <p className="text-body-text color-gray-600 mt-15">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit laborum — semper quis lectus nulla.</p>
+                                        <h4 className="text-heading-4">Месечно отчитане</h4>
+                                        <p className="text-body-text color-gray-600 mt-15">Получавайте месечни отчети за статистическите данни за импресиите и обхвата на аудиторията.</p>
                                     </div>
                                 </div>
                             </div>
                             <div className="col-lg-4 col-md-12 col-sm-12">
                                 <div className="list-icons mt-40 hover-up">
                                     <div className="item-icon"><span className="icon-left"><img src="/assets/imgs/page/homepage2/icon-active.svg" alt="Agon" /></span>
-                                        <h4 className="text-heading-4">Digital Marketing</h4>
-                                        <p className="text-body-text color-gray-600 mt-15">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div className="col-lg-4 col-md-12 col-sm-12">
-                                <div className="list-icons mt-40 hover-up">
-                                    <div className="item-icon"><span className="icon-left"><img src="/assets/imgs/page/homepage2/icon-retent.svg" alt="Agon" /></span>
-                                        <h4 className="text-heading-4">UI/UX designer</h4>
-                                        <p className="text-body-text color-gray-600 mt-15">Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                                        <h4 className="text-heading-4">Повторете видимостта</h4>
+                                        <p className="text-body-text color-gray-600 mt-15">Клиентите ще виждат вашата реклама няколко пъти седмично.</p>
                                     </div>
                                 </div>
                             </div>
