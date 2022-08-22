@@ -51,7 +51,7 @@ const Header = ({ handleOpen, headerStyle }) => {
                       </Link>
                       <ul className="sub-menu">
                         <li>
-                          <Link href="https://paybyface.azurewebsites.net/dooh-portal/">
+                          <Link href="https://paybyface.io/locations/">
                             <a>Локации</a>
                           </Link>
                         </li>
@@ -63,7 +63,7 @@ const Header = ({ handleOpen, headerStyle }) => {
                       </Link>
                       <ul className="sub-menu">
                         <li>
-                          <Link href="#">
+                          <Link href="/tableside">
                             <a>Поръчване от масата</a>
                           </Link>
                         </li>
@@ -95,7 +95,7 @@ const Header = ({ handleOpen, headerStyle }) => {
                       </ul>
                     </li>
                     <li className="has-children">
-                      <Link href="#">
+                      <Link href="/services">
                         <a>Услуги</a>
                       </Link>
                       <ul className="sub-menu">
