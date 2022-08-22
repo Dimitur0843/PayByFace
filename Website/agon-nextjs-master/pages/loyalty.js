@@ -36,11 +36,9 @@ function About1() {
                 </div>
                 <div className="col-lg-5 d-none d-lg-block">
                   <div className="banner-imgs">
-                    <img
-                      className="img-responsive shape-2"
-                      alt="Agon"
-                      src="assets/imgs/page/services/1/banner3.png"
-                    />
+                    <div style={{ borderRadius: '50px', overflow: 'hidden' }}>
+                      <img src="assets/imgs/page/services/1/17.jpg" layout="fill" objectFit="cover" />
+                    </div>
                   </div>
                 </div>
               </div>
