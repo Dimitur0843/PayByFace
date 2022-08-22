@@ -95,8 +95,8 @@ const Sidebar = ({ openClass }) => {
                         }
                       >
                         <li>
-                          <Link href="#">
-                            <a>Поръчване от масата</a>
+                          <Link href="/tableside">
+                            <a>Поръчване в заведение</a>
                           </Link>
                         </li>
                         <li>
@@ -105,22 +105,22 @@ const Sidebar = ({ openClass }) => {
                           </Link>
                         </li>
                         <li>
-                          <Link href="#">
+                          <Link href="/signage">
                             <a>Указателен POS</a>
                           </Link>
                         </li>
                         <li>
-                          <Link href="#">
+                          <Link href="/mobile">
                             <a>Мобилен POS</a>
                           </Link>
                         </li>
                         <li>
-                          <Link href="#">
+                          <Link href="/web">
                             <a>Уеб POS</a>
                           </Link>
                         </li>
                         <li>
-                          <Link href="#">
+                          <Link href="/loyalty">
                             <a>Loyalty POS</a>
                           </Link>
                         </li>

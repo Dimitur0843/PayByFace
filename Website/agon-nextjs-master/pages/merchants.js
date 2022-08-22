@@ -67,13 +67,13 @@ function Service1() {
             </div>
           </div>
           <div className="container mt-20">
-            <div className="row">
+            <div className="row" style={{ justifyContent: "center" }}>
               <div className="col-lg-3 col-md-6 col-sm-6 col-12">
                 <div className="list-icons">
                   <div className="item-icon none-bd">
                     <span className="icon-left">
                       <img
-                        src="/assets/imgs/page/services/1/icon-support.svg"
+                        src="/assets/imgs/page/services/smart.png"
                         alt="Agon"
                       />
                     </span>
@@ -90,14 +90,15 @@ function Service1() {
                   <div className="item-icon none-bd">
                     <span className="icon-left">
                       <img
-                        src="/assets/imgs/page/services/1/icon-web.svg"
+                        src="/assets/imgs/page/services/coffee.png"
                         alt="Agon"
                       />
                     </span>
-                    <h4 className="text-heading-6">Web Developer</h4>
+                    <h4 className="text-heading-6"> Поръчване в заведение</h4>
                     <p className="text-body-text color-gray-600 mt-15">
-                      We become a bonafide agency with a tiny team of 3 and then
-                      hire our first developers
+                      Седнете, сканирайте кода, поръчайте храна и платете!
+                      Когато клиентите ви приключат, те могат просто да станат и
+                      да си тръгнат.{" "}
                     </p>
                   </div>
                 </div>
@@ -107,14 +108,16 @@ function Service1() {
                   <div className="item-icon none-bd">
                     <span className="icon-left">
                       <img
-                        src="/assets/imgs/page/services/1/icon-business.svg"
+                        src="/assets/imgs/page/services/sign.png"
                         alt="Agon"
                       />
                     </span>
-                    <h4 className="text-heading-6">Business Analyst</h4>
+                    <h4 className="text-heading-6">Указателен POS</h4>
                     <p className="text-body-text color-gray-500 mt-15">
-                      We create our first campaign for Kaleidoscope Tech and it
-                      goes viral
+                      Използвайте таблетното устройство, за да пускате в
+                      магазина дигитални табла с вашите промоции и да ангажирате
+                      клиентите. То дава възможност и за обработка на
+                      биометрични плащания.
                     </p>
                   </div>
                 </div>
@@ -124,14 +127,35 @@ function Service1() {
                   <div className="item-icon none-bd">
                     <span className="icon-left">
                       <img
-                        src="/assets/imgs/page/services/1/icon-product.svg"
+                        src="/assets/imgs/page/services/iphone.png"
                         alt="Agon"
                       />
                     </span>
-                    <h4 className="text-heading-6">Product Designer</h4>
+                    <h4 className="text-heading-6">Мобилен POS</h4>
                     <p className="text-body-text color-gray-500 mt-15">
-                      With a growing body of work, we bring more artists,
-                      designers on board.
+                      Използвайте таблетното устройство, за да пускате в
+                      магазина дигитални табла с вашите промоции и да ангажирате
+                      клиентите. То дава възможност и за обработка на
+                      биометрични плащания.
+                    </p>
+                  </div>
+                </div>
+              </div>
+              <br></br>
+              <div className="col-lg-3 col-md-6 col-sm-6 col-12">
+                <div className="list-icons">
+                  <div className="item-icon none-bd">
+                    <span className="icon-left">
+                      <img
+                        src="/assets/imgs/page/services/web.png"
+                        alt="Agon"
+                      />
+                    </span>
+                    <h4 className="text-heading-6">Уеб POS</h4>
+                    <p className="text-body-text color-gray-500 mt-15">
+                      Добавете биометрична автентификация към онлайн магазина си
+                      за електронна търговия, за да потвърдите самоличността на
+                      клиентите си и да намалите вероятността от измама.
                     </p>
                   </div>
                 </div>
@@ -141,48 +165,14 @@ function Service1() {
                   <div className="item-icon none-bd">
                     <span className="icon-left">
                       <img
-                        src="/assets/imgs/page/services/1/icon-share.svg"
+                        src="/assets/imgs/page/services/loyalty.png"
                         alt="Agon"
                       />
                     </span>
-                    <h4 className="text-heading-6">Share stories</h4>
+                    <h4 className="text-heading-6">Loyalty POS</h4>
                     <p className="text-body-text color-gray-500 mt-15">
-                      We commit to original work of the highest standard and
-                      giving credit where it's due.
-                    </p>
-                  </div>
-                </div>
-              </div>
-              <div className="col-lg-3 col-md-6 col-sm-6 col-12">
-                <div className="list-icons">
-                  <div className="item-icon none-bd">
-                    <span className="icon-left">
-                      <img
-                        src="/assets/imgs/page/services/1/icon-build.svg"
-                        alt="Agon"
-                      />
-                    </span>
-                    <h4 className="text-heading-6">Support Engineer</h4>
-                    <p className="text-body-text color-gray-500 mt-15">
-                      We commit to original work of the highest standard and
-                      giving credit where it's due.
-                    </p>
-                  </div>
-                </div>
-              </div>
-              <div className="col-lg-3 col-md-6 col-sm-6 col-12">
-                <div className="list-icons">
-                  <div className="item-icon none-bd">
-                    <span className="icon-left">
-                      <img
-                        src="/assets/imgs/page/services/1/icon-team.svg"
-                        alt="Agon"
-                      />
-                    </span>
-                    <h4 className="text-heading-6">Support Engineer</h4>
-                    <p className="text-body-text color-gray-500 mt-15">
-                      We commit to original work of the highest standard and
-                      giving credit where it's due.
+                      Създайте игри за Вашите клиенти и увеличете лоялността им
+                      към Вашата марка.
                     </p>
                   </div>
                 </div>

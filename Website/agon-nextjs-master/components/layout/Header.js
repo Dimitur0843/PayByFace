@@ -64,7 +64,7 @@ const Header = ({ handleOpen, headerStyle }) => {
                       <ul className="sub-menu">
                         <li>
                           <Link href="/tableside">
-                            <a>Поръчване от масата</a>
+                            <a>Поръчване в заведение</a>
                           </Link>
                         </li>
                         <li>
@@ -73,22 +73,22 @@ const Header = ({ handleOpen, headerStyle }) => {
                           </Link>
                         </li>
                         <li>
-                          <Link href="#">
+                          <Link href="/signage">
                             <a>Указателен POS</a>
                           </Link>
                         </li>
                         <li>
-                          <Link href="#">
+                          <Link href="/mobile">
                             <a>Мобилен POS</a>
                           </Link>
                         </li>
                         <li>
-                          <Link href="#">
+                          <Link href="/web">
                             <a>Уеб POS</a>
                           </Link>
                         </li>
                         <li>
-                          <Link href="#">
+                          <Link href="/loyalty">
                             <a>Loyalty POS</a>
                           </Link>
                         </li>
