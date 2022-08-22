@@ -69,7 +69,7 @@ function Index4() {
         </section>
         <section className="section-box mt-60">
           <div className="container">
-            <div className="row">
+            <div className="row" style={{ justifyContent: "center" }}>
               <div className="col-lg-12 col-md-12 col-sm-12 mt-50">
                 <h2 className="text-heading-1 color-gray-900 mb-30">
                   Добре дошли в PayByFace®
@@ -134,22 +134,6 @@ function Index4() {
                 </div>
               </div>
             </div>
-            <div className="section-box mt-100">
-              <div className="container">
-                <div className="row">
-                  <div className="col-lg-7">
-                    <img src="/assets/imgs/page/homepage7/girl.jpg" />
-                  </div>
-                  <div className="col-lg-5">
-                    <img
-                      src="/assets/imgs/page/homepage7/vipstore.png"
-                      width={2000}
-                      height={440}
-                    />
-                  </div>
-                </div>
-              </div>
-            </div>
           </div>
           <br></br>
           <br></br>
@@ -189,6 +173,7 @@ function Index4() {
                     <img
                       src="/assets/imgs/page/homepage2/scan3.png"
                       alt="Agon"
+                      style={{ maxHeight: "200px", maxWidth: "200px" }}
                     />
                     <div className="mt-0    ">
                       <Link href="https://paybyface.myshopify.com/collections/all">
@@ -217,8 +202,7 @@ function Index4() {
                     <img
                       src="/assets/imgs/page/homepage2/scan2.png"
                       alt="Agon"
-                      width={400}
-                      height={400}
+                      style={{ maxHeight: "200px", maxWidth: "200px" }}
                     />
                     <div className="mt-0">
                       <Link href="https://www.producthunt.com/products/paybyface?utm_source=badge-featured&utm_medium=badge#paybyface">
