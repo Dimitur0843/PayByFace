@@ -102,64 +102,6 @@ function Contact() {
             </div>
           </div>
         </section>
-        <section className="section-box">
-          <div className="container mb-20 mt-140">
-            <div className="bdrd-58 box-gray-100 icon-wave">
-              <div className="row">
-                <div className="col-lg-12 mb-60">
-                  <span className="text-body-capitalized text-uppercase">
-                    Зададете вашите въпроси тук.
-                  </span>
-                  <h2 className="text-heading-3 color-gray-900 mt-10">
-                    Свържете с екипът ни.
-                  </h2>
-                </div>
-              </div>
-              <div className="col-lg-8">
-                <div className="row">
-                  <div className="col-lg-6">
-                    <div className="form-group">
-                      <input className="form-control" placeholder="Име" />
-                    </div>
-                  </div>
-                  <div className="col-lg-6">
-                    <div className="form-group">
-                      <input
-                        className="form-control"
-                        placeholder="Компания (по избор)"
-                      />
-                    </div>
-                  </div>
-                  <div className="col-lg-6">
-                    <div className="form-group">
-                      <input className="form-control" placeholder="Имейл" />
-                    </div>
-                  </div>
-                  <div className="col-lg-6">
-                    <div className="form-group">
-                      <input className="form-control" placeholder="Телефон" />
-                    </div>
-                  </div>
-                  <div className="col-lg-12">
-                    <div className="form-group">
-                      <textarea className="form-control" placeholder="Въпрос" />
-                    </div>
-                  </div>
-                  <div className="col-lg-12 mt-15">
-                    <button
-                      className="btn btn-black icon-arrow-right-white mr-40 mb-20"
-                      type="submit"
-                    >
-                      Изпрати съобщение
-                    </button>
-                    <br className="d-lg-none d-block" />
-                    <span className="text-body-text-md color-gray-500 mb-20"></span>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </section>
       </Layout>
     </>
   );

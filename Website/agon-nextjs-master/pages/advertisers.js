@@ -180,7 +180,7 @@ function Career() {
                       това как външната реклама може да ви донесе нови клиенти.
                     </p>
                     <div className="mt-40">
-                      <Link href="/https://paybyface.io/wp-content/uploads/2021/05/Paybyface-DOOH-adnetwork2021_compressed.pdf">
+                      <Link href="https://paybyface.io/wp-content/uploads/2021/05/Paybyface-DOOH-adnetwork2021_compressed.pdf">
                         <a className="btn btn-black shape-square icon-arrow-right-white">
                           Изтеглете медийния комплект PDF
                         </a>
