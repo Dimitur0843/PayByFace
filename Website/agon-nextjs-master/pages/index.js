@@ -30,7 +30,7 @@ function Index4() {
                     Актуализирайте магазина си с биометрични данни!
                   </p>
                   <div className="mt-40">
-                    <Link href="/page-about-1">
+                    <Link href="/how-it-works">
                       <a className="btn btn-pink icon-arrow-right-white text-heading-6">
                         Как работи
                       </a>
